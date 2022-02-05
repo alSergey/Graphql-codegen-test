@@ -1,0 +1,7 @@
+query {
+    fruits{
+        id
+        scientific_name
+        error_field
+    }
+}
